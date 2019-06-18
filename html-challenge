@@ -1,0 +1,22 @@
+# Zaio-Challanges
+My Zaio virtual  boot-camp challenges
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Tindi html challenge</title>
+	</head>
+	<body>
+		<h1>Tindi</h1>
+		<p>Please enter your information below</p>
+		<form>
+			Name:<input type="text" name="name"><br>
+			Surname:<input type="text" name="surname"><br>
+			Gender:
+			male:<input type="radio" name="maleorfemale">
+			female:<input type="radio" name="maleorfemale"><br>
+			age:<input type="text" name="name"><br><br>
+			<input type="submit" value="Submit">
+			
+		</form>
+	</body>
+</html>
